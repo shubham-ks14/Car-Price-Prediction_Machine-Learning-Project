@@ -7,12 +7,12 @@ So the dataset will be used to build a predictive model to predict the price of 
 
 The features(columns) in the given dataset are as follows:
 
-Car_Name
-Year
-Selling_Price
-Present_Price
-Kms_Driven
-Fuel_Type
-Seller_Type
-Transmission
-Owner
+* Car_Name
+* Year
+* Selling_Price
+* Present_Price
+* Kms_Driven
+* Fuel_Type
+* Seller_Type
+* Transmission
+* Owner
